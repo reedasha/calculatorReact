@@ -51,11 +51,12 @@ div {
 
 
 button {
-  background-color: #696969; 
+  background-color: #696969;
   border-radius: 50px;
   height: 80px;
   width: 80px;
   margin: 7px;
+  padding: 0 20px;
 }
 
 p {
@@ -65,12 +66,13 @@ p {
 }
 
 .function-keys  > .calculator-key{
-  background-color: #DCDCDC; 
+  background-color: #DCDCDC;
 }
 
 .function-keys  > .calculator-key > p{
   color: black;
 }
+
 button:hover {
     background-color: #DCDCDC; /* Green */
     color: white;

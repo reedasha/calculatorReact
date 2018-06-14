@@ -1,1 +1,3 @@
-Калькулятор React.js, написанный на основе калькулятора встроенного в ios.
+Simple calculator on React.js 
+
+Design based on ios calculator. 
